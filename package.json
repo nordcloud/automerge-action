@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "bin": {
-    "automerge-action": "./bin/automerge.js"
+    "automerge-action": "bin/automerge.js"
   },
   "scripts": {
     "test": "jest",
